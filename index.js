@@ -17,9 +17,9 @@ function iLoveTheBeatles(num) {
   var array = [];
   for(var i = 0;i < num;i++) {
     if (num = 17) {
-      return "I love the Beatles!";
+      return array;
     } else {
-      return array[i]
+      return array[i];
     }
   }
   }
