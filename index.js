@@ -13,3 +13,14 @@ function johnLennonFacts(array) {
   }
   return array;
 }
+function iLoveTheBeatles(num) {
+  var array = [];
+  for(var i = 0;i < num;i++) {
+    if (num = 17) {
+      return "I love the Beatles!";
+    } else {
+      return array[i]
+    }
+  }
+  }
+}
