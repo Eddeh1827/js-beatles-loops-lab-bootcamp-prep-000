@@ -21,10 +21,3 @@ function iLoveTheBeatles(num) {
   } while (i <= num && num < 15);
   return array;
   }
-  var arr = [];
- +  var i = 0;
- +  do {
- +    arr.push('I love the Beatles!');
- +    i++;
- +  } while (i <= number && number < 15);
- +  return arr;
